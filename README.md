@@ -1,4 +1,4 @@
-# LLMs-by-me
+# LMs-by-me
 
 A collection of chatbots built while learning, from exact phrase lookup to transformer-based text generation.
 
